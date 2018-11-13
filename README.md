@@ -1,6 +1,6 @@
-# Node-RED
+# Workflow Editor
 
-http://nodered.org
+http://acquitygroup.org
 
 [![Build Status](https://travis-ci.org/node-red/node-red.svg?branch=master)](https://travis-ci.org/node-red/node-red)
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
